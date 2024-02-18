@@ -314,12 +314,12 @@ GameObject:
   - component: {fileID: 2045833006}
   - component: {fileID: 2045833005}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: the first opject ever made in this game
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!65 &2045833005
 BoxCollider:
   m_ObjectHideFlags: 0
