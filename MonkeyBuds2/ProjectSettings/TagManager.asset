@@ -12,6 +12,7 @@ TagManager:
   - Glass
   - Grass
   - Dirt
+  - ChaseTag
   layers:
   - Default
   - TransparentFX
