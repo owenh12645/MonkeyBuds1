@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bullet
+  - HandTag
+  - Stone
+  - Wood
+  - Carpet
+  - Glass
+  - Grass
+  - Dirt
   layers:
   - Default
   - TransparentFX
