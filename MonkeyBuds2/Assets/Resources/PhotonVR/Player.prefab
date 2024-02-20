@@ -1531,7 +1531,7 @@ MonoBehaviour:
   BatObject: {fileID: 4494355405766564528}
   GorillaPlayer: {fileID: 0}
   MyView: {fileID: 7780029385335637883}
-  YeetForce: 25
+  YeetForce: 70
 --- !u!114 &3272541272454606800
 MonoBehaviour:
   m_ObjectHideFlags: 0
