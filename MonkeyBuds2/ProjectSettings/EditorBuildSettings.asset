@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/pvp.unity
+    guid: f436ff442a615f448b0e4b637b68b5f3
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 93003cb0943f2694a8e7654c158a87dc, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bfcf42fe521f86a4d87522d2f8bf8506, type: 2}
